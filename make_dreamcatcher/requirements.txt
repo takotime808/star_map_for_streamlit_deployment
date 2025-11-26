@@ -6,3 +6,7 @@ trimesh
 
 # to fix error: `ValueError: No available triangulation engine!`
 manifold3d
+
+# for streamlit version of code
+streamlit
+opencv-python-headless
