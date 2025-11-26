@@ -1,0 +1,8 @@
+numpy
+pillow
+opencv-python
+shapely
+trimesh
+
+# to fix error: `ValueError: No available triangulation engine!`
+manifold3d
